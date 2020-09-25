@@ -1,0 +1,1 @@
+web: gunicorn assesment_3.wsgi
